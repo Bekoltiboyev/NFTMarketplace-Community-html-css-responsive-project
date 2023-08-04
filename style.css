@@ -699,12 +699,10 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    
 }
 .footer-icons a:hover{
     background-color: #D6EF0E;
 }
-
 .footer-icons a i{
     color: black;
 }
